@@ -1,8 +1,15 @@
 {
   "name": "gix-cli-color",
   "version": "1.4.0",
-  "description": "Colors, formatting and other tools for the console",
+  "description": "GIX Colors, formatting and other tools for the console",
   "author": "Mariusz Nowak <medyk@medikoo.com> (http://www.medikoo.com/)",
+  "contributors": [
+    {
+      "name": "Guillaume Isabelle",
+      "email": "npm@guillaumeisabelle.com",
+      "url": "http://app.guillaumeisabelle.com/"
+    }
+  ],
   "keywords": [
     "ansi",
     "color",
@@ -16,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/medikoo/cli-color.git"
+    "url": "https://github.com/GuillaumeIsabelleX/gix-cli-color"
   },
   "dependencies": {
     "ansi-regex": "^2.1.1",

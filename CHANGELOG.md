@@ -14,6 +14,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 <a name="1.3.0"></a>
 
+# [1.3.0]
+* Forking...
+
 # [1.3.0](https://github.com/medikoo/cli-color/compare/v1.2.0...v1.3.0) (2018-08-20)
 
 ### Bug Fixes
