@@ -1,5 +1,5 @@
 {
-  "name": "cli-color",
+  "name": "gix-cli-color",
   "version": "1.4.0",
   "description": "Colors, formatting and other tools for the console",
   "author": "Mariusz Nowak <medyk@medikoo.com> (http://www.medikoo.com/)",
